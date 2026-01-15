@@ -4,7 +4,7 @@ This repository contains materials from a user study conducted to explore user p
 
 ## Overview
 
-- **Study Type:** Semi-Structured Interviews (n = 22) + Focus Group Discussion (n=8)
+- **Study Type:** Semi-Structured Interviews (n = 22) + Focus Group Discussion (n = 8)
 - **Data Included:**
   - Preliminary learning document (introduction.pdf)
   - Interview protocol (interview protocol.pdf)
@@ -14,4 +14,5 @@ This repository contains materials from a user study conducted to explore user p
 ## Ethical Considerations
 
 - This study was conducted in accordance with institution's IRB approval.
+
 - All participants provided informed consent prior to participating.
